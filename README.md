@@ -14,13 +14,5 @@
    2. R-Squared (R² or the coefficient of determination) is a statistical measure in a regression model that determines the proportion of variance in the dependent variable that can be explained by the independent 
       variable. In 
       other words, r-squared shows how well the data fit the regression model (the goodness of fit). A R-squared between 0.50 to 0.99 is acceptable in social science research especially when most of the explanatory 
-      variables are statistically significant.
-
---> Importing The Dependencies : 
-     1. Numpy : NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
-     2. Pandas : Pandas is a Python library used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data.
-     3. Mathplotlib : Matplotlib is a python library used to create 2D graphs and plots by using python scripts. It has a module named pyplot which makes things easy for plotting by providing feature to control line 
-        styles, font properties, formatting axes etc.
-     4. Seaborn : Python Seaborn library is a widely popular data visualization library that is commonly used for data science and machine learning tasks.
-     5. 
+      variables are statistically significant. 
 
